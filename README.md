@@ -1,16 +1,13 @@
 # xray
-Tracing serverless application with AWS X-Ray and
+Tracing serverless application with AWS X-Ray
 
-AWS Lambda XRAY
 
-![Alt text](https://github.com/parinay/xray/blob/master/xray.JPG?raw=true "Optional Title")
+![AWS Lambda XRAY](https://github.com/parinay/xray/blob/master/trace-images/xray.JPG?raw=true)
 ---------------------------------------------------------------------------------------------
-AWS Lambda XRAY - HTTP Request traces (Success scenario)
 
-![Alt text](https://github.com/parinay/xray/blob/master/http-req.JPG?raw=true "Optional Title")
+![AWS Lambda XRAY - HTTP Request traces (Success scenario)](https://github.com/parinay/xray/blob/master/trace-images/http-req.JPG?raw=true)
 
 ---------------------------------------------------------------------------------------------
-AWS Lambda XRAY - HTTP Request traces (Failure Scenario with Custom Segments)
 
-![Alt text](https://github.com/parinay/xray/blob/master/failure.JPG?raw=true "Optional Title")
+![AWS Lambda XRAY - HTTP Request traces (Failure Scenario with Custom Segments)](https://github.com/parinay/xray/blob/master/trace-images/failure.JPG?raw=true)
 
